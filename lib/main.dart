@@ -94,8 +94,8 @@ class _TwitterState extends State<Twitter> {
                 0,
                 const Tweet(
                   avatar_url:
-                      'https://scontent.fbkk22-1.fna.fbcdn.net/v/t1.6435-9/33057908_2084273215122891_700439707766489088_n.jpg?stp=dst-jpg_p180x540&_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeE9gok5MXwmNZLYzLqMr6Ny8v5y-ndtaBry_nL6d21oGmEuz4ewxn9Imy7iaTz74GeXmWCGV6mFsZtC4OwxzYjQ&_nc_ohc=k8LMSYhp3r0AX_Lh3_M&tn=ns8KRT8SDXZe0ZTm&_nc_ht=scontent.fbkk22-1.fna&oh=00_AfCUIGyb17Ltchcdwx4BMfifpnsfkVQZkAPN0JD7AbfKXw&oe=63A15B93',
-                  postText: 'GOD OF WAR is the best',
+                      'https://media.discordapp.net/attachments/1014090221442314275/1044580378268147832/128623417_421618995688191_9173992913558736229_n.jpg?width=858&height=644',
+                  postText: 'โปรเจคกลุ่ม',
                 ),
               );
             } else if (nam == 1) {
@@ -126,8 +126,8 @@ class _TwitterState extends State<Twitter> {
                 0,
                 const Tweet(
                   avatar_url:
-                      'https://scontent.fbkk29-4.fna.fbcdn.net/v/t1.6435-9/84457499_2535318563351685_80082663121092608_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHBw-kYzICRv3umuwBbDBzu__ddHmlPDvv_910eaU8O-xrSteHHEfAluZRNbkVGcEG7wgDj_5aYhwkKVPB5ylAu&_nc_ohc=lryevdG95JIAX_cDRfc&_nc_ht=scontent.fbkk29-4.fna&oh=00_AfD0DP5MBMt7jEqiuM8g4ZljMjg8u3w1eHz-IIESlTiTPg&oe=63A3EBEA',
-                  postText: '',
+                      'https://media.discordapp.net/attachments/897791729888002070/1044585392097218570/IMG_20220606_075449.jpg?width=526&height=644',
+                  postText: 'ฝึกงาน Sitem',
                 ),
               );
             } else if (nam == 5) {
@@ -144,8 +144,8 @@ class _TwitterState extends State<Twitter> {
                 0,
                 const Tweet(
                   avatar_url:
-                      'https://pbs.twimg.com/media/EkHl9odVkAEyEVC.jpg:large',
-                  postText: 'HONKAI IMPACT 3 ',
+                      'https://images-ext-1.discordapp.net/external/_GF7t0eg3zJekYDl-QTtICbeYAAAn7qMO4JlbDYL6zY/%3F_nc_cat%3D107%26ccb%3D1-7%26_nc_sid%3Dae9488%26_nc_ohc%3DX9fYFW8MQo4AX-8epHf%26_nc_ht%3Dscontent.fbkk28-1.fna%26oh%3D03_AdRC1UJFBPOMVP_Y_UIL7-uU0VyYrPD83zQdthbWCfXfAQ%26oe%3D63A41AA5/https/scontent.fbkk28-1.fna.fbcdn.net/v/t1.15752-9/127762167_3671511102908401_2420412686484865980_n.jpg?width=858&height=644',
+                  postText: 'โปรเจคกลุ่ม ',
                 ),
               );
             } else if (nam == 7) {
@@ -153,8 +153,8 @@ class _TwitterState extends State<Twitter> {
                 0,
                 const Tweet(
                   avatar_url:
-                      'https://cdn.akamai.steamstatic.com/steam/apps/1332010/capsule_616x353.jpg?t=1660855681',
-                  postText: 'The cat is Kawai.',
+                      'https://media.discordapp.net/attachments/897791729888002070/1044580856473333791/IMG_20211016_170739.jpg?width=858&height=644',
+                  postText: 'ทำการประกอบSmartPhone ครั้งแรก.',
                 ),
               );
             } else if (nam == 8) {
@@ -162,8 +162,8 @@ class _TwitterState extends State<Twitter> {
                 0,
                 const Tweet(
                   avatar_url:
-                      'https://scontent.fbkk29-5.fna.fbcdn.net/v/t1.6435-9/81645714_813921645780144_4011860755702874112_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ad2b24&_nc_eui2=AeF0DP_fO6CCtRhoxaO3_hmw4gThBipmiDDiBOEGKmaIMIilLaO5aTZBzZzpXW72DQUnY3t6aqBQAjr0Rz18oqzm&_nc_ohc=0zXeWrT243QAX__61IO&_nc_ht=scontent.fbkk29-5.fna&oh=00_AfAqD2D6OW0gXZwRuBAvqZgyIZw3reQRf-zJ2PhgkSrKZA&oe=63A40FDD',
-                  postText: 'รู้สึกโกรธ ヽ(ಠ_ಠ)ノ',
+                      'https://media.discordapp.net/attachments/1014090221442314276/1042045017843302461/image.png?width=969&height=644',
+                  postText: ' ヽ(ಠ_ಠ)ノ',
                 ),
               );
             } else if (nam == 9) {
@@ -171,8 +171,8 @@ class _TwitterState extends State<Twitter> {
                 0,
                 const Tweet(
                   avatar_url:
-                      'https://scontent.fbkk29-4.fna.fbcdn.net/v/t39.30808-6/265005082_3050122438537959_1904475914051205290_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGCOiLeeWy8_gvT2BovDSvZTKU72lsgMyNMpTvaWyAzI5gQQ6nMxtXUMVDBfJ3a0O8AvPM1eqZH7foJJ-5NQ6DD&_nc_ohc=q68HBfYVdJ0AX-FuHyD&_nc_ht=scontent.fbkk29-4.fna&oh=00_AfC6EfK0prUvfn90qF3vc-0WtRg93Bb1YtC0qLzo3pW6bA&oe=63814796',
-                  postText: 'กินข้าวกันเถอะ',
+                      'https://media.discordapp.net/attachments/897791729888002070/1044583392303390821/IMG20210323144412.jpg?width=484&height=644',
+                  postText: '',
                 ),
               );
             } else if (nam == 10) {

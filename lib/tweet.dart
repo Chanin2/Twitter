@@ -123,9 +123,10 @@ class Tweet extends StatelessWidget {
     return Container(
       margin: const EdgeInsets.all(10.0),
       child: Column(
-        children: [
+        children: const [
           CircleAvatar(
-            backgroundImage: NetworkImage(avatar_url),
+            backgroundImage: NetworkImage(
+                'https://scontent.fbkk22-2.fna.fbcdn.net/v/t1.6435-9/83385781_2652560974960776_8688845774615522655_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEWu_5F3VhiuzSpQTyWYyppGL4hxl53_NYYviHGXnf81uS_MCqv_1fgNcdq_BwdNHnE72ZLZ2HpZIUcRAQPGkRp&_nc_ohc=GVe0v7Nbb0QAX-XPBEG&_nc_ht=scontent.fbkk22-2.fna&oh=00_AfAQRU_K4lmaDcuPgb4WUVefuCNw2pMjsuHVsUBWgC9kdA&oe=63A156DE'),
           ),
         ],
       ),
